@@ -1,0 +1,38 @@
+.Em{
+    height:40px;
+    width:400px;
+    border-radius:10px;
+    border-color:black;
+    background-color:white;
+}
+.ta{
+    border-radius:15px;
+    width:400px;
+    border-color:black;
+    background-color:white;
+}
+.sumbitbutton45{
+    height:40px;
+    width:80px;
+    background-color:black;
+    cursor: pointer;
+    text-decoration: none;
+    border-radius: 20px;
+    color:white;
+}
+.div119{
+    color:black;
+    background-color:gray;
+    height:700px;
+    width:500px;
+    margin-top: 25px;
+    margin-left:700px;
+    border-radius:50px;
+    font-size: 30px;
+    font-family: garamond;
+    text-align: center;
+}
+::placeholder{
+    padding-top: 5px;
+    padding-left:10px;
+}

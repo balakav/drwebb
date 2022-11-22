@@ -1,0 +1,27 @@
+.dish{
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    letter-spacing:20px;
+}
+.dis1{
+    background-color:gray;
+    float: center;
+    border-radius:20px;
+    height:55px;
+    color:black;
+    width:210px;
+    margin: 15px;
+    float:left;
+    font-weight: bold;
+    text-align: center;
+    margin-left:40px;
+}
+.pdis{
+    
+   color: black;
+   text-decoration-line: none;
+}
+.idis{
+    
+}

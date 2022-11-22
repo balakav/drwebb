@@ -1,0 +1,61 @@
+.pdb{
+    background-color:yellow;
+    float: center;
+    border:2px yellow;
+    border-radius:20px;
+    height:130px;
+    color:black;
+    width:250px;
+    margin: 5px;
+    float:left;
+    font-weight: bold;
+    
+   
+}
+.pdb1{
+    background-color:green;
+    float: center;
+    border:2px green;
+    border-radius:20px;
+    height:130px;
+    color:black;
+    width:250px;
+    margin: 5px;
+    float:left;
+    font-weight: bold;
+   
+}
+.pdb2{
+    background-color:rgb(250, 3, 3);
+    float: center;
+    border-color:1px red;
+    border-radius:20px;
+    height:130px;
+    color:black;
+    width:250px;
+    margin: 5px;
+    float:left;
+    font-weight: bold;
+   
+}
+.appo2{
+   width: 12px;
+   border:12px green;
+   padding: 12px;
+   margin:5px;
+}
+.h221{
+    font-size: 20px;
+    text-align: center;
+    color: green;
+}
+.h222{
+    font-size: 20px;
+    text-align: center;
+    color: red;
+}
+.h223{
+    font-size: 20px;
+    text-align: center;
+    color: yellow;
+}

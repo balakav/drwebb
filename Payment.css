@@ -1,0 +1,34 @@
+.div1h{
+    color:black;
+    background-color:gray;
+    height:560px;
+    width:400px;
+    margin-top: 25px;
+    margin-left:700px;
+    border-radius:50px;
+    font-size: 30px;
+    font-family: garamond;
+    text-align: center;
+
+}
+.hh{
+    padding-top: 30px;
+    margin-left: 20px;
+}
+.payi1{
+    
+    margin-left:80px;
+    float: left;
+}
+.payi3{
+    margin-top: -10px;
+    margin-left:80px;
+    float: left;
+}
+.payi2{
+    margin-left: 20px;
+}
+.payi4{
+    margin-left: 20px;
+    margin-top: -10px;
+}

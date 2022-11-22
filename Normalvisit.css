@@ -1,0 +1,35 @@
+.demo958{
+    text-align: center;
+    color: black;
+    font-size:30px;
+    padding-top:15px;
+    font-weight: bold;
+  
+  }
+  
+  .ddemo {
+        width: 300px;
+        border: 5pxsolidrgb(63, 5, 238);
+        padding: 50px;
+        margin:10px;
+        border-radius:10px;
+        background-image: url("");
+        height:500px;
+       
+  }
+  .bdemo289{
+    margin:10px;
+  }
+  .normalbox{
+    height: 550px;
+    width: 400px;
+    margin: 20px;
+    background-color: gray;
+    border-radius: 20px;
+    float: right;
+    margin-right: 150px;
+  }
+  .normalbox{
+    padding-top: 20px;
+  }
+  

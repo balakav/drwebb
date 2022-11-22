@@ -1,0 +1,29 @@
+.hosbox{
+    width: 130vh;
+    height:70.5vh;
+    margin: 2px;
+    background-color: gray;
+    border-radius: 50px;
+}
+.hosi{
+    height:100px;
+    width: 130px;
+    float: left;
+    margin-left: 40px;
+    padding-top:10px;
+    border-radius:30px;
+}
+.hospara{
+    font-size: 50px;
+    padding-top: 45px;
+    padding-right: 280px;
+}
+.hosinput{
+    width:200px;
+    border-radius: 0px;
+}
+.hosa{
+    font-size: 30px;
+    color: rgb(60, 60, 117);
+    font-weight: bold;
+}

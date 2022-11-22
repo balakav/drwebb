@@ -1,0 +1,51 @@
+.demo{
+    text-align: center;
+    color: aqua;
+    font-size:40px;
+    padding-top:50px;
+
+}
+.bdemo1{
+    height:35px;
+    width:95px;
+    color: rgb(231, 210, 19);
+    background-color: blue;
+    border-color:blue;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    font-size:25px;
+    text-align: center;
+    border-radius:15px;
+    
+
+}
+.bdemo2{
+    height:35px;
+    width:95px;
+    color: rgb(231, 210, 19);
+    background-color: blue;
+    border-color:blue;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    font-size:25px;
+    text-align: center;
+    border-radius:15px;
+    
+
+}
+.ddemo {
+    color:black;
+    background-color:white;
+    height:600px;
+    width:400px;
+    margin-top: 25px;
+    margin-left:550px;
+    border-radius:50px;
+    font-size: 30px;
+    font-family: garamond;
+}
+body{
+    background-image: url("https://walrus-assets.s3.amazonaws.com/img/AdamsNeilson_NarrativeMedicine_735.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}

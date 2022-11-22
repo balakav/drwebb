@@ -1,0 +1,75 @@
+.d{
+    text-decoration: none;
+    font-size: 25px;
+    color: white;
+    
+   
+}
+.l{
+    float: right;
+}
+.nav-area{
+    background-color:black;
+    padding:15px;
+}
+.pr{
+    cursor: pointer;
+    height:40px;
+	width: 70px;
+	margin: 20px 30px;
+	border-color: green;
+	background-color: green;
+	border-radius:20px;
+	font-size:15px;
+	font-weight: bold;
+	font-style: normal;
+	font-family: 'Times New Roman', Times, serif;
+	color:bisque
+}
+body{
+    background-image: url('https://img.freepik.com/premium-vector/healthcare-medical-science-background-with-icons-symbols-innovation-technology_120542-239.jpg?w=1380');
+	background-size: cover;
+}
+.img22{
+    background-image: url('Capture.PNG');
+    height:65px;
+    width:65px;
+    background-size: cover;
+    border-radius:40px;
+    float: left;
+}
+.para1{
+    font-size:50px;
+	font-family: 'Times New Roman', Times, serif;
+	color:orangered;
+}
+.para2{
+    font-size:40px;
+	font-family: sans-serif;
+	color: rgb(117, 95, 95);
+}
+.para3{
+    color:green;
+    font-size:35px;
+	font-family: sans-serif;
+}
+.body1{
+    text-align: right;
+	padding-top:100px;
+}
+.pr2{
+    cursor: pointer;
+    height:40px;
+	width: 70px;
+	margin: 20px 30px;
+	border-color: green;
+	background-color: green;
+	border-radius:20px;
+	font-size:15px;
+	font-weight: bold;
+	font-style: normal;
+	font-family: 'Times New Roman', Times, serif;
+	color:bisque;
+    float: right;
+    border-color: black;
+}

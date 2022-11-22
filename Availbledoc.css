@@ -1,0 +1,50 @@
+.Availh{
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    letter-spacing:20px;
+    color: black;
+}
+.availdoc{
+    background-color:gray;
+    float: center;
+    border-color:1px red;
+    border-radius:20px;
+    height:130px;
+    color:black;
+    width:250px;
+    float:left;
+    font-weight: bold;
+    text-decoration-line: none;
+   margin-left:30px;
+}
+.availdoc6{
+    background-color:rgb(253, 4, 4);
+    float: center;
+    border-color:1px red;
+    border-radius:20px;
+    height:130px;
+    color:black;
+    width:250px;
+    float:left;
+    font-weight: bold;
+    text-decoration-line: none;
+   margin-left:30px;
+}
+.availpara{
+    color: red;
+    float: right;
+    margin-right:100px;
+    padding:50px;
+    font-weight: bold;
+}
+
+.availdoci{
+    height: 60px;
+    width: 60px;
+    margin: 0px;
+    border: 0px;
+    padding: 0px;
+    float: right;
+    margin-right: 30px;
+}
